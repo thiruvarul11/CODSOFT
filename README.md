@@ -4,7 +4,7 @@
 🧑‍💻 Intern: Thiruvarul K
 🏢 Organization: CodSoft
 💼 Internship Domain: Machine Learning
-📁 Repository: CODSOFT GitHub Repo ( )
+📁 Repository: CODSOFT GitHub Repo ( https://github.com/thiruvarul11/CODSOFT.git )
 📌 Overview
 As part of the CodSoft Virtual Internship Program, I successfully completed three hands-on machine learning projects using real-world datasets. This internship helped me enhance my skills in data preprocessing, feature engineering, model training, evaluation, and visualization using Python and popular ML libraries like scikit-learn, pandas, matplotlib, and seaborn.
 
@@ -18,7 +18,7 @@ Handled highly imbalanced data with high accuracy and precision
 
 Achieved 99.91% accuracy
 
-Notebook Link :
+Notebook Link : https://colab.research.google.com/drive/1RPw2zqtnQqHqOyFZOCZYiVOQFlyDxr-d?usp=sharing
 
 🔹 Task 3: Customer Churn Prediction
 Used a Random Forest Classifier to predict customer retention
@@ -27,7 +27,7 @@ Performed feature encoding and scaling on bank customer data
 
 Achieved 86.15% accuracy
 
-Notebook Link :
+Notebook Link : https://colab.research.google.com/drive/1Z1VPkChhQIkYwHaPArDZLfNj7w61bl8F?usp=sharing
 
 🔹 Task 4: Spam SMS Detection
 Built a spam filter using NLP techniques (TF-IDF + Naive Bayes)
@@ -36,7 +36,7 @@ Processed raw SMS data for binary classification
 
 Achieved 96.86% accuracy
 
-Notebook Link :
+Notebook Link : https://colab.research.google.com/drive/1Z3xYwQ5HZ_yYER80-rrVKTbIKwO1tlsj?usp=sharing
 
 🧠 Skills Demonstrated
 Data Cleaning & Preprocessing
